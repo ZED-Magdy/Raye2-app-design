@@ -1,0 +1,10 @@
+.card {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+.badge-light {
+    background-color: #edeeef !important
+}
+.search {
+    border-radius: 50px !important;
+}

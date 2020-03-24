@@ -1,0 +1,18 @@
+.carousel{
+    height: 800px !important;
+}
+.carousel-inner{
+    height: 100%;
+}
+.carousel-inner img,.carousel-item{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+.badge-light {
+    background-color: #edeeef !important
+}
+.card {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
