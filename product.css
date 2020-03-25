@@ -16,3 +16,23 @@
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
     cursor: pointer;
 }
+@media screen and (max-width: 576px){
+    .carousel{
+        height: 28rem !important;
+    }
+    .card{
+        height: 17rem;
+    }
+    .card-body .row, .col-6 {
+        height: 100% !important;
+    }
+    .col-6 h1{
+        font-size: 20px;
+    }
+    .col-6 p{
+        font-size: 14px;
+    }
+    h3 {
+        font-size: 20px
+    }
+}
