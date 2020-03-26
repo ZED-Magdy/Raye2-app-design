@@ -8,6 +8,10 @@
 .search {
     border-radius: 50px !important;
 }
+.nav-link img{
+    height: 32px;
+    width: 32px;
+}
 .nav-link .link-name {
     margin-top: 5px;
     margin-left: 8px;

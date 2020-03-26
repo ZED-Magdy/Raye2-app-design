@@ -16,6 +16,10 @@
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
     cursor: pointer;
 }
+.nav-link img{
+    height: 32px;
+    width: 32px;
+}
 .nav-link .link-name {
     margin-top: 5px;
     margin-left: 8px;
@@ -27,6 +31,9 @@
     width: 50px;
     height: 100%;
     z-index: 999;
+}
+h4 {
+    line-height: 2.0;
 }
 @media screen and (max-width: 576px){
     .carousel{
@@ -44,7 +51,7 @@
     .col-6 p{
         font-size: 14px;
     }
-    h3 {
-        font-size: 20px
+    h4 {
+        font-size: 20px;
     }
 }

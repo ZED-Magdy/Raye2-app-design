@@ -19,6 +19,10 @@
     float: left;
     margin-top: 100px;
 }
+.nav-link img{
+    height: 32px;
+    width: 32px;
+}
 .nav-link .link-name {
     margin-top: 5px;
     margin-left: 8px;
