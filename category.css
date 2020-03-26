@@ -8,3 +8,9 @@
 .search {
     border-radius: 50px !important;
 }
+.draggable {
+    position: fixed;
+    width: 50px;
+    height: 100%;
+    z-index: 999;
+}
