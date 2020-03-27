@@ -41,12 +41,13 @@ a:hover {
 h4 {
     line-height: 2.0;
 }
+.footer {
+    margin-bottom: 0px !important;
+    bottom: 0px;
+}
 @media screen and (max-width: 576px){
     .carousel{
         height: 28rem !important;
-    }
-    .card{
-        height: 17rem;
     }
     .card-body .row, .col-6 {
         height: 100% !important;
